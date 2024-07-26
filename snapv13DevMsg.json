@@ -1,8 +1,8 @@
 {
-  "show_message": false,
-  "title": "متوفر اصدار جديد تم التعديل بواسطة حسين الاحمد ",
+  "show_message": true,
+  "title": "Follow SamMods Telegram Channel",
   "content_url": " ",
-  "positive_btn": "التنزيل الان",
-  "link": "https://manbij-plus.blogspot.com/",
+  "positive_btn": "OK",
+  "link": "https://t.me/manbij_plus",
   "cancelable": true
 }
